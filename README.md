@@ -1,4 +1,6 @@
 # Redfern_SLO_dashboard
+![Redfern Ltd SLO Dashboard_2025-05-06 at 06 18 23+1000_Splunk](https://github.com/user-attachments/assets/02cf0684-60f3-4209-8267-807449b95e2b)
+
 
 ## 📊 Overview
 This project is completed using Splunk Dashboard Studio. I created the comprehensive dashboard for Redfern LTD (Fictional company name) Service Level Objective. 
